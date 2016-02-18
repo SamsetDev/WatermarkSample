@@ -7,7 +7,7 @@ This is watermark samle you can use this sample
 
 Author: Sanjay Singh 
 
-<a href="http://www.facebook.com/share.php?u=http:https://www.facebook.com/?stype=lo&jlou=AfedsbBJZBsx9FFJPxoXTUHgLOIxoJjUx4bTu7ozmg1U3bXku4qkkI37-H4KHL56QYVrUSE8r1PMIyUmCdJkh3k5OAk9QW78aYkazt-BrFisPg&smuh=8156&lh=Ac_3kJOE6oEINtNf/&t=Share Facebook" class="socialBtn socialBtn--facebook">Share on Facebook</a>
+<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwebsite.com&t=url%20encoded%20text" class="socialBtn socialBtn--facebook">Share on Facebook</a>
 
 <h1>License</h1>
 
