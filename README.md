@@ -7,7 +7,7 @@ This is watermark samle you can use this sample
 
 Author: Sanjay Singh 
 
-<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwebsite.com&t=url%20encoded%20text" class="socialBtn socialBtn--facebook">Share on Facebook</a>
+<a href="http://www.facebook.com/sharer.php?u=https://github.com/SamsetDev/WatermarkSample" class="socialBtn socialBtn--facebook">Share on Facebook</a>
 
 <h1>License</h1>
 
